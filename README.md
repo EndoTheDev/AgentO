@@ -2,9 +2,7 @@
 
 A lightweight AI agent that chats with Ollama and can use tools. ~300 lines of Python.
 
-## ⚠️ Security Warning
-
-Tools can **execute any shell command** and **read/write any file**. Only run this with models you trust, in environments you control.
+<iframe src="https://github.com/sponsors/EndoTheDev/button" title="Sponsor EndoTheDev" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 ## Quick Start
 
@@ -40,3 +38,7 @@ Run: `uv run main.py --message "Your question here"` (one-shot)
 - `httpx` for HTTP streaming
 - `python-dotenv` for config
 - Native Ollama API (no extra SDKs)
+
+## ⚠️ Security Warning
+
+Tools can **execute any shell command** and **read/write any file**. Only run this with models you trust, in environments you control.
