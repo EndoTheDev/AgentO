@@ -2,7 +2,7 @@
 
 A lightweight AI agent that chats with Ollama and can use tools. ~300 lines of Python.
 
-<iframe src="https://github.com/sponsors/EndoTheDev/button" title="Sponsor EndoTheDev" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor](https://img.shields.io/github/sponsors/EndoTheDev?style=social&label=Sponsor)](https://github.com/sponsors/EndoTheDev)
 
 ## Quick Start
 
